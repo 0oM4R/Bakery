@@ -1,0 +1,293 @@
+*{
+    margin :0;
+    padding:0;
+}
+.clr{
+    clear: left;
+}
+.home{
+    width:100%;
+    height: 100vh;
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    /* padding: 0px;
+    margin: -10px;
+    border: 0px; */
+}
+.nav{
+  
+    height: 90px;
+    width :100% ;
+}
+
+.navBotton{
+    float: left;
+    margin: 25px;
+    color: white;
+}
+.caption{
+    margin: auto;
+    text-align: center;
+    margin-top:100px;
+    color:#fff;
+    width: 600px;
+    
+  
+}
+.gif{
+    margin:auto; 
+    height: 50px;
+    width :40px;
+}
+.gif img{
+    height:100%;
+    width:100%;
+}
+
+p,h1{
+    margin :20px 0;
+    font-size :20px;
+    
+}
+h1{
+    font-size:76px;
+    font-family: "Alegreya Sans";
+    font-weight: 400;
+}
+
+.btn1,.btn2{
+    margin: 5px;
+    padding :13px 28px;
+    margin-bottom: 100px;
+    border:none;
+    color:#fff;
+    background-color: transparent;
+    font-size :16px;
+    font-family: "Alegreya Sans";
+    border-radius:5px;
+
+    
+}
+.btn1{
+    background-color: #8e7754;
+    padding :15px 28px;
+}
+.btn2{
+    border: solid white 2px;
+   
+}
+
+
+.navContainer img{
+    height: 48px;
+    width: 177px;
+    padding : 25px 300px; 
+}
+
+.navContainer {
+    
+    float: left;
+}
+.navBottom{
+  margin: 60px 15px;
+  float: left;
+
+}
+.clr{
+    clear: left;
+}
+
+/*section 2*/
+
+.s2
+{
+    width: 100%;
+    height: 60vh;
+    margin: 90px 60px;
+   
+}
+
+.who{
+    float: left;
+}
+.infoImg{
+    width :491px;
+    height: 517px;
+    float: left;
+    padding-left: 110px;
+   
+}
+.infoImg img{
+    width: 100%;
+    height: 100%;
+}
+.details{
+width :491px;
+height: 517px;
+padding:  40px 80px 20px 80px;
+
+}
+
+
+.icon img{
+height: 44px;
+width: 44px;
+float: left;
+padding :12px;
+
+}
+.details h2{
+    font-weight: 300;
+    font-size: 30px;
+
+}
+.details p{
+    font-size:18px;
+    font-weight: 100;
+}
+.icon h4{
+    float: left;
+    padding :10px;
+    margin-top: 18px;
+}
+
+/* section 3*/
+.s3
+{
+    width: 100%;
+
+    margin: 90px 60px;
+
+}
+.location{
+    float: left; 
+}
+.location h2{
+    font-weight: 300;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.location p{
+    font-size:18px;
+    font-weight: 100;
+}
+.location .Img{
+    width :491px;
+    height: 517px;
+    float: left;
+   
+}
+.Img img{
+    width: 100%;
+    height: 100%;
+}
+.location .details{
+    width :491px;
+    height: 517px;
+    float: left;
+    padding-left: 110px;
+}
+/* section 4*/ 
+
+.s4{
+    width: 100%;
+   
+    margin: auto;
+ 
+}
+.title{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+.types{
+    margin :auto;
+
+    width: 1280px;;
+    height: 600px;
+}
+.type{
+    text-align: center;  
+    margin: 20px;
+    height: 315px;
+    width: 378px;
+    float: left;
+}
+.type img{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.type h3{
+    margin: 15px;
+}
+h2{
+    font-weight: 300;
+    font-size: 30px;
+    margin-top: 50px;
+}
+p{
+    
+    font-size:18px;
+    font-weight: 100;
+   
+}
+
+/*section 5*/ 
+.s5
+{
+    widows: 100%;
+    margin: auto;
+    
+    
+
+}
+.contact{
+    width :491px;
+    height: 517px;
+    float: left;
+    padding-left: 160px;
+  
+}
+/*secton 6*/
+.s6{
+    height: 350px;
+    width: 100%;
+    background-color: #403D38;
+    color: honeydew;
+}
+.about{
+    width: 260;
+    padding-left: 40px;
+    margin: 30px;
+    float: left;
+
+}
+.about h4{
+    margin-top: 20px;
+    font-size:18px;
+    font-weight: 200;
+    color: honeydew;
+    border-bottom: solid 1px gray ;
+    
+}
+.about img{
+    float: left;
+}
+.back
+{
+    background-image: url(images/contact-details-map.png);
+    background-size: contain;
+}
+
+.s7{
+    width: 100%;
+    height: 400px;
+    background-color: #353330;
+}
+.s7 .logo{
+    height: 96px;
+    width: 400px;
+    margin: auto;
+    padding: 35px;
+}
